@@ -38,5 +38,5 @@
 
 <details>
   <summary><b>Some random stats</b></summary>
-[![Mesourogiwi github stats](https://github-readme-stats.vercel.app/api?username=Mesourogiwi&theme=dracula&show_icons=true)](https://github.com/Mesourogiwi)
+![Mesourogiwi github stats](https://github-readme-stats.vercel.app/api?username=Mesourogiwi&theme=dracula&show_icons=true)
 </details>
