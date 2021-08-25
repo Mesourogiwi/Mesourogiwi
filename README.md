@@ -36,7 +36,5 @@
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
-<details>
-  <summary><b>Some random stats</b></summary>
+## Some random stats
 ![Mesourogiwi github stats](https://github-readme-stats.vercel.app/api?username=Mesourogiwi&theme=dracula&show_icons=true)
-</details>
