@@ -7,14 +7,14 @@
 - ⚡ Fun fact: I love to program listening to music
 
 ## Social Medias && Contact
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-black.svg? &style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-h-a64b80117/)](https://www.linkedin.com/in/lucas-h-a64b80117/)
-[![Instagram Badge](https://img.shields.io/badge/instagram-black.svg? &style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/luskacete/)](https://www.instagram.com/luskacete/)
-[![Steam Badge](https://img.shields.io/badge/steam-black.svg? &style=for-the-badge&logo=steam&logoColor=white&link=https://steamcommunity.com/profiles/76561198053056913/)](https://steamcommunity.com/profiles/76561198053056913/)
-[![Spotify Badge](https://img.shields.io/badge/spotify-black.svg? &style=for-the-badge&logo=spotify&logoColor=white&link=https://open.spotify.com/user/12144562259?si=2ea547eb93044513)](https://open.spotify.com/user/12144562259?si=2ea547eb93044513)
-[![Gmail Badge](https://img.shields.io/badge/-lucas.honorato@unesp.com-black? &style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:lucas.honorato@unesp.com)](mailto:lucas.honorato@unesp.com)
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-black.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-h-a64b80117/)](https://www.linkedin.com/in/lucas-h-a64b80117/)
+[![Instagram Badge](https://img.shields.io/badge/instagram-black.svg?&style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/luskacete/)](https://www.instagram.com/luskacete/)
+[![Steam Badge](https://img.shields.io/badge/steam-black.svg?&style=for-the-badge&logo=steam&logoColor=white&link=https://steamcommunity.com/profiles/76561198053056913/)](https://steamcommunity.com/profiles/76561198053056913/)
+[![Spotify Badge](https://img.shields.io/badge/spotify-black.svg?&style=for-the-badge&logo=spotify&logoColor=white&link=https://open.spotify.com/user/12144562259?si=2ea547eb93044513)](https://open.spotify.com/user/12144562259?si=2ea547eb93044513)
+[![Gmail Badge](https://img.shields.io/badge/-lucas.honorato@unesp.com-black?&style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:lucas.honorato@unesp.com)](mailto:lucas.honorato@unesp.com)
 
 ## Technologies
-![Visual Studio Code](	https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -38,5 +38,5 @@
 
 <details>
   <summary><b>Some random stats</b></summary>
-![Mesourogiwi github stats](https://github-readme-stats.vercel.app/api?username=Mesourogiwi&theme=dracula&show_icons=true)](https://github.com/Mesourogiwi)
+![Mesourogiwi github stats](https://github-readme-stats.vercel.app/api?username=Mesourogiwi&theme=dracula&show_icons=true)(https://github.com/Mesourogiwi)
 </details>
