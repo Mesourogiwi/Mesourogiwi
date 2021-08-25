@@ -38,3 +38,4 @@
 
 ## Some random stats
 ![Mesourogiwi github stats](https://github-readme-stats.vercel.app/api?username=Mesourogiwi&theme=dracula&show_icons=true)
+![Mesourogiwi github stats](https://github-readme-stats.vercel.app/api/top-langs?username=Mesourogiwi&theme=dracula&layout=compact&langs_count=7)
