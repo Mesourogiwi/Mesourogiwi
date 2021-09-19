@@ -2,7 +2,7 @@
 
 ## I'm currently a B.S.c Computer Science student at FCT/UNESP, São Paulo, Brazil
 - 🔭 I’m currently working on Fullstack projects
-- 🌱 I’m currently learning GitHub Actions, AWS, Docker and Jest
+- 🌱 I’m currently learning GitHub Actions, AWS and Docker
 - 💬 Ask me about anything
 - ⚡ Fun fact: I love to program listening to music
 
@@ -22,6 +22,7 @@
 ![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
