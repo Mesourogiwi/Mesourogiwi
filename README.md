@@ -39,5 +39,5 @@
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
 ## Some random stats
-![Mesourogiwi github stats](https://github-readme-stats.vercel.app/api?username=Mesourogiwi&theme=dracula&show_icons=true)
+![Mesourogiwi github stats](https://github-readme-stats.vercel.app/api?username=Mesourogiwi&theme=dracula&show_icons=true&include_all_commits=true&count_private=true)
 ![Mesourogiwi github stats](https://github-readme-stats.vercel.app/api/top-langs?username=Mesourogiwi&theme=dracula&layout=compact&langs_count=7)
